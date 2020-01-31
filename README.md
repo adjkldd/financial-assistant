@@ -1,4 +1,4 @@
-## finacial-assistant
+## financial-assistant
 
 [财报数据收集](./财报数据收集.md)
 
@@ -12,4 +12,4 @@
 
 ### TODO
 
-json 字段分析
+资产负债表展现
